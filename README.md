@@ -1,6 +1,6 @@
 ## Hi, I'm Laide Rasaki 👋
 
-PhD candidate in **Plant Breeding and Genomics** at North Carolina State University (expected Fall 2027).
+PhD candidate in **Plant Breeding and Genomics** at North Carolina State University.
 I connect long-read genomics and epigenomics with applied crop improvement: PacBio HiFi methylation,
 T2T genome assembly and annotation, GWAS, genomic prediction, and breeding data systems.
 
