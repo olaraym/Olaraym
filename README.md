@@ -7,7 +7,7 @@ T2T genome assembly and annotation, GWAS, genomic prediction, and breeding data 
 - 🔬 Current research: comparative DNA methylome of Upland and Pima cotton (PacBio HiFi)
 - 📄 Recent: [Genome and methylome of the root crop table beet](https://doi.org/10.1038/s41598-026-77397-6), *Scientific Reports* (2026)
 - 🧬 ORCID: [0000-0002-5594-6827](https://orcid.org/0000-0002-5594-6827)
-- 💼 LinkedIn: [ADD URL]
+- 💼 LinkedIn: [https://www.linkedin.com/in/laide-abbas-rasaki ]
 
 ### Latest result
 
